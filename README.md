@@ -1,0 +1,2 @@
+# MinganliCity_SCIDGenerator
+明安里市内特殊市民的身份识别码的生成器，可用于创建明安里市系列作品的角色。
